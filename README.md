@@ -6,7 +6,7 @@ I host all my websites in New Zealand, and as such, downloading js files (like w
 
 So I host my own local copies of stuff.
 
-## Using this script
+## About this script
 Pretty easy really.  
 This script:
 * Checks if you have npm / node installed
@@ -17,3 +17,8 @@ This script:
     * If not then installs it.
 * Runs the workbox-cli to make a local copy of workbox in the directory local_workbox.
 
+
+## Installing and Running
+1. Git clone this repo.
+2. Set executable bit: `chmod 755 update_workbox.sh`
+3. Run the script: `./updateworkbox.sh`
