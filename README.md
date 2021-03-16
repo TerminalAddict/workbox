@@ -1,4 +1,4 @@
-# Workbox Local CDN CReator
+# Workbox Local CDN Creator
 A simple NPM update script that creates a local CDN of workbox.
 
 ## Background
