@@ -6,7 +6,7 @@ workbox.setConfig({
   modulePathPrefix: "../local_workbox/workbox-v6.1.5/"
 });
 
-var CACHE_NAME='{{ site.site_name | slugify }}-cache';
+var CACHE_NAME='my-cache';
 
 workbox.precaching.precacheAndRoute([
 {url: '/', revision: '1620607563' },

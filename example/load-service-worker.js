@@ -1,4 +1,4 @@
-const promptStr = 'New version of {{ site.url }} is available, do you want to update? It may take two reloads.';
+const promptStr = 'New version of this site is available, do you want to update? It may take two reloads.';
 function createUIPrompt(opts) {
   if (confirm(promptStr)) {
      opts.onAccept()
