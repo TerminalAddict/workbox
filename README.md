@@ -21,4 +21,11 @@ This script:
 ## Installing and Running
 1. Git clone this repo.
 2. Set executable bit: `chmod 755 update_workbox.sh`
-3. Run the script: `./updateworkbox.sh`
+3. Run the script: `./update_workbox.sh`
+
+## Example
+An example to get you started can be found in the example directory of this repository.  
+
+A working example can be found on my [TerminalAddict.com](https://github.com/TerminalAddict/ta.com-website) repository.  
+Or on the website: [TerminalAddict.com](https://terminaladdict.com/) repository.  
+
